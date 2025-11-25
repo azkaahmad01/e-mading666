@@ -1,0 +1,6 @@
+- [ ] Modify CommentController to check for rude words and prevent submission
+- [ ] Update PembinaController rejectPost to accept reason
+- [ ] Update Admin PostController reject to accept reason
+- [ ] Update pembina pending view to include reason input for reject
+- [ ] Update admin pending view to include reason input for reject
+- [ ] Test the changes
